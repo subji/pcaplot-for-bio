@@ -1,5 +1,9 @@
 extends layout
 
 block content
-  h1= title
-  p Welcome to #{title}
+	div#main
+	script(src='/bower_components/jquery/dist/jquery.js')
+	script(src='/bower_components/d3/d3.js')
+	script(src='/javascripts/pcaplot/pca2dplot.js')
+	script(src='/javascripts/pcaplot/pca3dplot.js')
+	script(src='/javascripts/index.js')
