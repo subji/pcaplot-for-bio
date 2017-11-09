@@ -13,7 +13,7 @@
 ### data
 - cd public/datas
 - input data
-- 단 현재 파일명은 'xyplot.json' 으로 해야 한다.
+- 단 현재 파일명은 'PCA.dat.tsv' 으로 해야 한다.
 - 2d의 경우 pca2d 를 주석해제 후 사용,
   3d의 경우 pca3d 를 주석해제 후 사용한다.
 - data format: (tsv)
